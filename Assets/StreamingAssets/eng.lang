@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Vocabulary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Workoutassistant>Workout assistant</Workoutassistant>
+  <StartFullTraining>Start Full Training</StartFullTraining>
+  <Tutorials>Tutorials</Tutorials>
+  <ChooseTraining>Choose Training</ChooseTraining>
+  <Settings>Settings</Settings>
+  <Time>Time</Time>
+  <Repetitions>Repetitions</Repetitions>
+  <Walkaway>Walk away from screen and stay in frame</Walkaway>
+  <Congratulations>Congratulations!</Congratulations>
+  <MistakesMade>Hints for future training:</MistakesMade>
+  <Highscorebeaten>You beat the highscore!</Highscorebeaten>
+  <ExerciseTime>You did exercise in: </ExerciseTime>
+  <LanguageSettings>LanguageSettings</LanguageSettings>
+  <Apply>Apply</Apply>
+  <Lateralraises>Lateral raises</Lateralraises>
+  <Handstand>Handstand</Handstand>
+  <verheadpress>Overhead press</verheadpress>
+  <Curls>Curls</Curls>
+  <Othersettings>Other settings</Othersettings>
+  <Volume>Volume</Volume>
+  <NumberofSeries>Number of series</NumberofSeries>
+  <Numberofrepetitions>Number of repetitions</Numberofrepetitions>
+  <English>English</English>
+  <Polish>Polish</Polish>
+  <GetPosture>Get initial position</GetPosture>
+  <Enter>Enter</Enter>
+  <TooFast>Slowdown, you are performing exercise too fast!</TooFast>
+  <KeepYourHeadStill>Keep your head still</KeepYourHeadStill>
+  <KeepYourSpineStraight>Keep your spine straight</KeepYourSpineStraight>
+  <FeetOnHipWidth>Keep your feet on the hip width</FeetOnHipWidth><Polish>Polish</Polish>
+  <AbdominalContracted>Keep your feet on the hip width and your abdominal muscles contracted!</AbdominalContracted>
+  <CorrectWristPosition>You are losing balanse, correct your posture via wrists and shoulders</CorrectWristPosition>
+  <KeepYourArmsStraight>Keep your arms straight</KeepYourArmsStraight>
+  <KeepYourElbowsStraight>Keep your elbows straight</KeepYourElbowsStraight>
+  <LiftSymmetrical>Lift weights symmetrically</LiftSymmetrical>
+  <TutorialHandstand>To perform the handstand take on press up position with one knee brought forward to the chest. Next, using bended leg push the limbs upward. Remember to keep trunk tight, legs together bended backward and to correct the stability using wrists and/or shoulders. If you are a beginner, it will be easier for you to walk on hands. According to your stability level, the application will give you feedback about the progress. Please remember to always perform exercise with assistance and on mattress.</TutorialHandstand>
+  <TutorialLateralRaises>To perform lateral raises, stay straight with hips parallel to feet. Next, place you weights next to hips and try to push them to the sides. Try to reach the shoulder level via your wrists every time. Please remember not to engage other muscle parts, bend head or spine.</TutorialLateralRaises>
+  <TutorialOverheadPress>To perform overhead press, stay straight with hips parallel to feet. Next, place you hands next to shoulders and try to push the weights alternately upward above the head. To prevent the shoulder joint injuries try not to lower the weights below the shoulder level. Moreover,  during the lifting do not straight your elbows completely and do not engage your spine, head or other muscle parts. Exhale during push.</TutorialOverheadPress>
+  <TutorialCurls>To perform curls, stay straight with hips parallel to feet. Next, place the arms next to hips and try to lift the weights alternately towards the shoulders while exhaling the air. Remember to keep your spine straight and head still. The exercise should be done without engaging other muscle parts than biceps.</TutorialCurls>
+  <HandstandTip>If you are having trouble with the handstand ask your assistant to help you holding the legs or perform the exercise next to the wall, practice plank positions, mountain climbers or try to climb up the wall to the handstand position. Remember to take break between the exercises!</HandstandTip>
+  <Motivation>You are almost there, if you are too tired, you can always repeat the exercise after the regeneration! Any exercise with any repetitions performed correctly along with proper diet will increase your strength.</Motivation>
+  <Breaktime>Break time [s]</Breaktime>
+</Vocabulary>

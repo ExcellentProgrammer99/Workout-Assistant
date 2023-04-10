@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Vocabulary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Workoutassistant>Asystent ćwiczeń</Workoutassistant>
+  <StartFullTraining>Zacznij pełny trening</StartFullTraining>
+  <Tutorials>Tutoriale</Tutorials>
+  <ChooseTraining>Wybierz Trening</ChooseTraining>
+  <Settings>Ustawienia</Settings>
+  <Time>Czas</Time>
+  <Repetitions>Powtórzenie</Repetitions>
+  <Walkaway>Odejdź dalej od ekranu i stań w ramce</Walkaway>
+  <Congratulations>Gratulacje!</Congratulations>
+  <MistakesMade>Wskazówki do przyszłego treningu:</MistakesMade>
+  <Highscorebeaten>Rekord pobity!</Highscorebeaten>
+  <ExerciseTime>Udało Ci się wykonać ćwiczenie w: </ExerciseTime>
+  <LanguageSettings>Ustaw język</LanguageSettings>
+  <Apply>Zastosuj</Apply>
+  <Lateralraises>Podciąganie hantli do boku</Lateralraises>
+  <Handstand>Stanie na rękach</Handstand>
+  <verheadpress>Wznoszenie hantli nad głowę</verheadpress>
+  <Curls>Uginanie ramion</Curls>
+  <Othersettings>Inne ustawienia</Othersettings>
+  <Volume>Dźwięk</Volume>
+  <NumberofSeries>Liczba serii</NumberofSeries>
+  <Numberofrepetitions>Liczba powtórzeń</Numberofrepetitions>
+  <English>Angielski</English>
+  <Polish>Polski</Polish>
+  <GetPosture>Przybierz postawę początkową</GetPosture>
+  <Enter>Dodaj</Enter>
+  <TooFast>Zwolnij i wykonuj ćwiczenia dokładniej</TooFast>
+  <KeepYourHeadStill>Trzymaj głowę prosto</KeepYourHeadStill>
+  <KeepYourSpineStraight>Wyprostuj kręgosłup</KeepYourSpineStraight>
+  <FeetOnHipWidth>Trzymaj stopy na linii bioder</FeetOnHipWidth><Polish>Polish</Polish>
+  <AbdominalContracted>Trzymaj stopy na linii bioder oraz napnij mięśnie brzucha!</AbdominalContracted>
+  <CorrectWristPosition>Tracisz równowagę, dokonaj korekty za pomocą nadgarstków lub barków</CorrectWristPosition>
+  <KeepYourArmsStraight>Wyprostuj ręce</KeepYourArmsStraight>
+  <KeepYourElbowsStraight>Nie uginaj łokci</KeepYourElbowsStraight>
+  <LiftSymmetrical>Podnoś ciężary równomiernie</LiftSymmetrical>
+  <TutorialHandstand>Aby wykonać stanie na rękach, przybierz pozycję uniku podpartego przodem, a następnie za pomocą zgiętej nogi unieś kończyny do góry odbijając je od podłoża. Pamiętaj, aby trzymać tułów napięty, nogi zgięte do tyłu i poprawiać stabilność pozycji za pomocą nadgarstków i/lub barków. Jeśli jesteś początkujący, łatwiej będzie Ci chodzić na rękach. W zależności od poziomu stabilności aplikacja będzie informować o postępach. Pamiętaj, aby zawsze wykonywać ćwiczenia z asystą i na materacu.</TutorialHandstand>
+  <TutorialLateralRaises>Aby wykonać wznosy boczne, stań prosto trzymając biodra na równi ze stopami. Następnie umieść ciężarki obok bioder i spróbuj unieść je do boków. Staraj się za każdym razem sięgać nadgarstkami poziomu ramion. Pamiętaj, aby nie angażować innych partii mięśniowych oraz nie zginać głowy ani kręgosłupa.</TutorialLateralRaises>
+  <TutorialOverheadPress>Aby wykonać wyciskanie nad głową, stań prosto trzymając biodra na równi ze stopami. Następnie połóż ręce na poziomie ramion i staraj się przesuwać ciężarki na przemian w górę, nad głowę. Aby zapobiec urazom stawu barkowego, staraj się nie obniżać ciężarów poniżej poziomu barków. Ponadto podczas podnoszenia nie prostuj całkowicie łokci i nie angażuj kręgosłupa, głowy ani innych partii mięśniowych. Rób wydechy podczas wypychania ciężarów.</TutorialOverheadPress>
+  <TutorialCurls>Aby wykonać zginanie przedramion, stań prosto trzymając biodra na równi ze stopami. Następnie przyłóż ręce do bioder i staraj się podnosić ciężary na przemian w stronę barków wydychając przy tym powietrze. Pamiętaj o wyprostowaniu kręgosłupa i trzymaniu głowy nieruchomo. Ćwiczenie należy wykonywać bez angażowania innych partii mięśniowych niż biceps.</TutorialCurls>
+  <HandstandTip>Jeśli masz problemy ze staniem na rękach, poproś swojego asystenta o pomoc w trzymaniu nóg, wykonaj ćwiczenia przy ścianie (spróbuj wspiąć się po ścianie do pozycji stojącej), przećwicz pozycje deski, wyrzut nóg. Pamiętaj, aby robić sobie przerwę między ćwiczeniami!</HandstandTip>
+  <Motivation>Jesteś już bardzo blisko, jeśli czujesz się zmęczony, zawsze możesz powtórzyć ćwiczenia po regeneracji mięśni. Każde prawidłowo wykonane ćwiczenie wraz z odpowiednią dietą zwiększa Twoją siłę.</Motivation>
+  <Breaktime>Czas przerwy [s]</Breaktime>
+</Vocabulary>

@@ -1,0 +1,53 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Exercise_Lateral_Raises">
+			<method name="Promote"/>
+		</type>
+		<type fullname="Exercise_OverheadPress">
+			<method name="Promote"/>
+		</type>
+		<type fullname="GetLanguage">
+			<method name="LoadLanguage"/>
+		</type>
+		<type fullname="Handstand">
+			<method name="Promote"/>
+		</type>
+		<type fullname="MainMenuUI">
+			<method name="ApplyChanges"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="BTNMainMenu"/>
+			<method name="Exercise2"/>
+			<method name="Exercise3"/>
+			<method name="Exercise4"/>
+			<method name="LoadSettings"/>
+			<method name="LoadTutorialsList"/>
+			<method name="Reload"/>
+			<method name="Reload"/>
+			<method name="Reload"/>
+			<method name="Reload"/>
+			<method name="SetLanguage"/>
+			<method name="SetVolume"/>
+			<method name="StartFullTraining"/>
+			<method name="StartFullTraining"/>
+			<method name="TrainingOptions"/>
+			<method name="Tutorial1"/>
+			<method name="Tutorial2"/>
+			<method name="Tutorial3"/>
+			<method name="Tutorial4"/>
+		</type>
+		<type fullname="PoseNetSample">
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+			<method name="ToMainMenu"/>
+		</type>
+		<type fullname="SaveORLoadData">
+			<method name="ApplyChanges"/>
+		</type>
+	</assembly>
+</linker>

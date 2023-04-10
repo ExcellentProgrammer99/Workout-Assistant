@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VocabularyToSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Workoutassistant>Asystent ćwiczeń</Workoutassistant>
+  <StartFullTraining>Zacznij pełny trening</StartFullTraining>
+  <Tutorials>Tutoriale</Tutorials>
+  <ChooseTraining>Wybierz Trening</ChooseTraining>
+  <Settings>Ustawienia</Settings>
+  <Time>Czas</Time>
+  <Repetitions>Powtórzenie</Repetitions>
+  <Walkaway>Odejdź dalej od ekranu i stań w ramce</Walkaway>
+  <Congratulations>Gratulacje, udało Ci się wykonać ćwiczenie w </Congratulations>
+  <LanguageSettings>Ustaw język</LanguageSettings>
+  <Apply>Zastosuj</Apply>
+  <Lateralraises>Podciąganie hantli do boku</Lateralraises>
+  <Handstand>Stanie na rękach</Handstand>
+  <verheadpress>Wznoszenie hantli nad głowę</verheadpress>
+  <Curls>Uginanie ramion</Curls>
+  <Othersettings>Inne ustawienia</Othersettings>
+  <Volume>Dźwięk</Volume>
+  <NumberofSeries>Liczba serii</NumberofSeries>
+  <Numberofrepetitions>Liczba powtórzeń</Numberofrepetitions>
+  <English>Angielski</English>
+  <Polish>Polski</Polish>
+  <Enter>Dodaj</Enter>
+</VocabularyToSave>
